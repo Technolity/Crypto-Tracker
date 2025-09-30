@@ -1,8 +1,8 @@
-# ?? Crypto Tracker 
+# Crypto Tracker 
  
 A professional, responsive cryptocurrency tracker built with React. 
  
-## ? Features 
+## Features 
 - Real-time cryptocurrency prices 
 - Interactive price charts (7-day history) 
 - Dark/Light mode toggle 
@@ -10,3 +10,4 @@ A professional, responsive cryptocurrency tracker built with React.
 - Search and watchlist functionality 
 - Auto-scroll to chart feature 
 - Fully responsive design 
+
