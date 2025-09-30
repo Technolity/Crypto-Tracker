@@ -28,10 +28,13 @@ const App = () => {
 
 
   // Fetch top cryptocurrencies
-useEffect(() => {
+/*useEffect(() => {
   fetchCoins();
   loadWatchlist();
-}, [currency]);
+}, [currency]);*/
+  useEffect(() => {
+  // Your useEffect code here
+}, [fetchCoins]); // Add fetchCoins as a dependency
 
 
 const fetchCoins = async () => {
